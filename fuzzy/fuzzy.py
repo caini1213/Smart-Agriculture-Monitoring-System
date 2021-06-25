@@ -88,7 +88,6 @@ def main():
     print("\n")
  #----Read sensor data every 10 sec & Calculate weather threshold-----#
 def check_data():
-    #conn = mysql.connector.connect(user='root', password='LovelyCaini123',port=51704,host='48mh42.ddns.net',database='agriculture')
     conn = mysql.connector.connect(user='caini', password='',host='127.0.0.1',database='smart_durian')
 
     cursor = conn.cursor()
