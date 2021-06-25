@@ -31,14 +31,3 @@ Dowmload APK file = [app.zip](https://github.com/caini1213/Smart-Agriculture-Mon
 
 
 **Hope you enjoy & Like it !! Hava a Nice day ! Thank you very much.**
-
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-Smart Agriculture monitoring system is a system that includes IoT and Artificial Intelligence Fuzzy Logic technique that can help farmers to monitor and analyze data about their crops. It also helps farmers to able to generate recommendations to assist farmer on how much water level needed for the plant.
-=======
-Smart Agriculture monitoring system is a system that includes IoT and Artificial Intelligence Fuzzy Logic technique that can help farmers to monitor and analyze data about their crops. It also helps farmers to able to generate recommendations to assist farmer on how much water level needed for the plant.
->>>>>>> Stashed changes
-
-smart agri
-=======
->>>>>>> d8f1ff460e8d0d76651bb3c2936e090374aae013
